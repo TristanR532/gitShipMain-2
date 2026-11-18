@@ -1,8 +1,8 @@
 // Here's where we'll put all the variables to mess with
 
 //crew roster
-String pilot = "Prof Kit";
-String copilot = "";
+String pilot = "Tristan";
+String copilot = "Aaron";
 
 //spacecraft controls
 boolean viewscreen = true; //powers up main viewscreen
